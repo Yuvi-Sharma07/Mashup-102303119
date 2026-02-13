@@ -1,0 +1,6 @@
+flask
+flask-mail
+pytubefix
+moviepy
+email-validator
+gunicorn
